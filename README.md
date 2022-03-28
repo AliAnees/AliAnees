@@ -20,7 +20,7 @@ Hi there! My name is **Ali Anees** and I'm an **Engineering** student in my fina
 ## About Me
 - 🔭 I’m currently a Mechanical Engineering Student at the University Of Guelph.
 - 🌱 I have strong experience in programming languages such as Python and JavaScript, both through school and self-projects.
-- 🤔 I’m interested in learning about anything and everything relating to full-stack development, machine learning, robotics, and more!
+- 🤔 I’m interested in learning about anything and everything relating to full-stack development, machine learning, vision systems, robotics, and more!
 - 💬 When I'm not coding, I love challenging myself through different sports such as Squash or Badminton, or 3D Modelling whatever comes to mind.
 - ⚡ Fun fact: I've been to over 8 countries! I have a great love and appreciation for different cultures around the world.
 
